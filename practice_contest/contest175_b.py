@@ -6,6 +6,7 @@ class main:
     for i in range(len(array)):
       i += 1
       for j in range(len(array) - (i - 1)):
+        s+=1
         print(array[j], array[j + 1], array[j + 2])
         
 if __name__ == "__main__":
