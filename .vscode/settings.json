@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "C:\\Users\\mofum\\anaconda3\\envs\\keipro\\python.exe"
+  "python.pythonPath": "C:\\Users\\mofum\\anaconda3\\envs\\keipro\\python.exe",
+  "python.formatting.provider": "black"
 }
